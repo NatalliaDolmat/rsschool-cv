@@ -1,4 +1,5 @@
-![](https://github.com/NatalliaDolmat/rsschool-cv/blob/main/images/Photo_Dolmat.png)
+![](https://github.com/NatalliaDolmat/rsschool-cv/blob/main/images/PhotoDolmat.PNG)
+
 # Dolmat Natallia
 ## *Contact*:
 * phone: +375 44 7312282
