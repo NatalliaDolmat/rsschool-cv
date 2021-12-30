@@ -1,4 +1,4 @@
-![](https://github.com/NatalliaDolmat/rsschool-cv/blob/main/images/PhotoDolmat.PNG)
+![](https://github.com/NatalliaDolmat/image/blob/main/photo/PhotoDolmat.PNG)
 
 # Dolmat Natallia
 ## *Contact*:
