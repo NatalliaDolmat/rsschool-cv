@@ -1,3 +1,4 @@
+![](https://github.com/NatalliaDolmat/rsschool-cv/blob/main/images/Photo_Dolmat.png)
 # Dolmat Natallia
 ## *Contact*:
 * phone: +375 44 7312282
@@ -12,6 +13,7 @@ I have been a legal adviser in commercial law since 2009.  I want to change my p
     function multiply(a, b = 1) {
       return a * b;
     }
+
 ## Work experience:
 Nothing in front-end development yet.
 
