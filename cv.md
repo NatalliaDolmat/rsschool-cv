@@ -1,4 +1,4 @@
-![](https://github.com/NatalliaDolmat/image/blob/main/photo/PhotoDolmat.PNG)
+![](https://raw.githubusercontent.com/NatalliaDolmat/image/main/photo/PhotoDolmat.PNG)
 
 # Dolmat Natallia
 ## *Contact*:
