@@ -1,0 +1,13 @@
+body::after {
+	display: block;
+	margin: 0 auto;
+	padding-top: 95px;
+	width: 150px;
+	height: 30px;
+	border-radius: 50px;
+	content: "text";
+	text-align: center;
+	text-shadow: 0 0 4px black;
+	font-size: 18px;
+	font-family: serif;
+ }
