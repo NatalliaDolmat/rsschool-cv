@@ -1,4 +1,4 @@
-![PhotoDolmat](https://user-images.githubusercontent.com/95017934/147772883-a7074cde-82ef-443f-980e-62a0cfde5aa0.PNG)
+![PhotoDolmat](https://user-images.githubusercontent.com/95017934/147774998-bd0d375c-60c4-4940-97c1-1eb6e31b33c9.PNG)
 
 # Dolmat Natallia
 ## *Contact*:
