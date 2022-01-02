@@ -35,25 +35,25 @@ body {
  }
 
  .header {
-	background-color: #e7dca6;
-	border-bottom: 10px solid rgb(202, 206, 143);
-	
+	background-color: #eee6be;
+	border-bottom: 10px solid rgb(157, 160, 120);
  }
 
  .nav-list {
 	display: flex;
-	justify-content: space-between;
-	align-items: flex-start;
+	justify-content: flex-start;
+	align-items: center;
 	list-style: none;
  }
  .nav-link {
 	padding: 0 20px;
 	line-height: 50px;
 	transition: .3s;
-	color: rgb(167, 172, 109);
+	color: rgb(141, 146, 89);
+	text-decoration: none;
  }
  .nav-link:visited {
-	color: rgb(141, 146, 89);
+	color: rgb(167, 172, 109);
  }
 .nav-link:hover{
 	background-color: rgb(207, 211, 148);
@@ -64,11 +64,6 @@ body {
 }
  h2 {
 	 text-decoration: underline;
- }
- 
- .code {
-	 background: linear-gradient(to top, #eee6be, white);
-	 padding: 10px;
  }
 
  .photo {
@@ -98,4 +93,8 @@ body {
  }
  .footer-link:visited {
 	color: rgb(40, 41, 29);
+ }
+ .rslogo {
+	width: 80px;
+   height: 40px;
  }
