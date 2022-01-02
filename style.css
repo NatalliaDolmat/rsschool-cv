@@ -28,6 +28,21 @@ body {
 	padding: 50px;
  }
 
+ .section-en {
+	width: 100%;
+	padding: 20px;
+	background: linear-gradient(to bottom, #eee6be, white);
+	display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+ }
+ #title-english {
+	padding: 20px;
+ }
+#certificate {
+	padding: 20px;
+}
+
  @media (max-width: 768px) {
 	.section {
 	  width: 100%;
