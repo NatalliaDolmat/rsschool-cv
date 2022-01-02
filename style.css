@@ -1,0 +1,115 @@
+body {
+	font-family: 'Cairo', sans-serif; 
+	min-height: 100vh; 
+	margin: 0; 
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+* {
+	box-sizing: border-box;
+ }
+
+ html {
+	scroll-behavior: smooth; 
+ }
+
+ .main {
+	display: flex;
+	flex-wrap: wrap;
+	color: rgb(33, 34, 21);
+	font-size: 20px;
+ }
+  .section {
+	width: 50%;
+	background: linear-gradient(to bottom, #eee6be, white);
+	padding: 50px;
+ }
+
+ .section-en {
+	width: 100%;
+	padding: 20px;
+	background: linear-gradient(to bottom, #eee6be, white);
+	display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+ }
+ #title-english {
+	padding: 20px;
+ }
+#certificate {
+	padding: 20px;
+}
+
+ @media (max-width: 768px) {
+	.section {
+	  width: 100%;
+	}
+ }
+
+ .header {
+	background-color: #eee6be;
+	border-bottom: 10px solid rgb(157, 160, 120);
+ }
+
+ .nav-list {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	list-style: none;
+ }
+ .nav-link {
+	padding: 0 20px;
+	line-height: 50px;
+	transition: .3s;
+	color: rgb(141, 146, 89);
+	text-decoration: none;
+ }
+ .nav-link:visited {
+	color: rgb(167, 172, 109);
+ }
+.nav-link:hover{
+	background-color: rgb(207, 211, 148);
+ }
+
+ h1{
+	font-weight: bold;
+}
+ h2 {
+	 text-decoration: underline;
+ }
+
+ .photo {
+	border: 5px solid rgb(208, 211, 160);
+	border-radius: 10px;
+ }
+
+ .contact-list {
+	list-style-type: square;
+	line-height: 50px;
+}
+.work-list {
+	list-style-type: none;
+}
+
+ .footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #e3d799;
+ }
+.footer-link {
+	padding: 0 20px;
+	line-height: 50px;
+	transition: .3s;
+	color: rgb(65, 66, 50);
+ }
+ .footer-link:visited {
+	color: rgb(40, 41, 29);
+ }
+ .rslogo {
+	width: 80px;
+   height: 40px;
+ }
